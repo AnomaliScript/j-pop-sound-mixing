@@ -7,7 +7,7 @@ The songs I used were "Lag Train" and "Children Record" (the former is a Vocaloi
 I also had to use some of my music theory knowledge to detect where there was modulation (changes in key) of the song, so that I can seperate those parts and transpose them seperately (I wanted to have the whole song in one key)
 
 ![screenshot_2024-08-31_212541](https://github.com/user-attachments/assets/5d212f58-62a5-4829-86f9-115e2512cf27)
-The song I work the most on: https://github.com/AnomaliScript/j-pop-sound-mixing/blob/main/CR%202-3%23%20washed.mp3
+The song I had worked the most on (children record with all b minot/f# minor transposition): https://github.com/AnomaliScript/j-pop-sound-mixing/blob/main/CR%202-3%23%20washed.mp3
 
 ## Usage
 The audio files are free to download, and they are in keys of F# and B minor.
